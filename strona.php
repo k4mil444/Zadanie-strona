@@ -81,7 +81,7 @@ if (!isset($podstrony[$id])) {
 <body>
 	<div id="kontener">
 		<header>
-			<h1>Witaj na mojej stronie!</h1>
+			<h1>Witaj na mojej stronie!!!</h1>
 		</header>
 		<div>
 			<main>
